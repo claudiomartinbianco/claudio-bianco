@@ -1,0 +1,19 @@
+{
+  "name": "claudio-bianco",
+  "version": "1.0.0",
+  "description": "App Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Claudio Bianco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "request": "^2.88.2"
+  }
+}
